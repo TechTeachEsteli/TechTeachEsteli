@@ -7,12 +7,12 @@
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/backend/</loc>
+    <loc>https://techteachesteli.info/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/categories/</loc>
-    <priority>0</priority>
+    <loc>https://techteachesteli.info/cursos/primer-sitio-web/</loc>
   </url>
   
   <url>
@@ -25,11 +25,11 @@
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/frontend/</loc>
+    <loc>https://techteachesteli.info/cursos/java1/</loc>
   </url>
   
   <url>
-    <loc>https://techteachesteli.info/cursos/python/</loc>
+    <loc>https://techteachesteli.info/cursos/arduino1/</loc>
   </url>
   
   <url>
